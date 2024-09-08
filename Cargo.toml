@@ -1,0 +1,8 @@
+[package]
+name = "KeyboardUtils"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glib = "0.14"
+gtk4 = "0.6" 
